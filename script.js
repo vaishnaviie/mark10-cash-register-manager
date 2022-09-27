@@ -39,7 +39,7 @@ function calculate(){
     }
     
     else{
-        displayMessage("Enter positive value");
+        displayMessage("Enter positive value. Make sure all the fields are filled");
         
     }   
 }
